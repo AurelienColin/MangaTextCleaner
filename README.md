@@ -1,0 +1,2 @@
+# MangaTextCleaner
+This application aims to facilitate the cleaning of manga/BD/comic speech bubble. It use a basic U-Net model pre-segment the bubbles, then ask the user to choose the area to remove. Unfortunately, it is not yet possible to let the model run by itself on multiple images, the foremost limitation being the size of the dataset used to train the model. However, I'm certain that some could find this application useful.
