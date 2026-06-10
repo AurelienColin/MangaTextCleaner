@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.idea/
+
+# Test venvs
+.venv-test/
+.venv/
+
+# Keras model (large binary, regeneratable)
+*.h5
